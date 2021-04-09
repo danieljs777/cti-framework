@@ -1,0 +1,50 @@
+body {
+  background-color: #1F1F1F;
+  font-size: 14px;
+  font-family: "Tahoma", Helvetica;
+  color: #FFFFFF;
+}
+
+#body {
+  margin: 0 auto;
+  position: relative;
+}
+
+#header {
+  font-size: 54px;
+  font-weight: bold;
+  top: 20px;
+  text-align: center;
+  color: #FF2200;
+}
+
+.legend {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  width: 330px;
+  font-size: 11px;
+  color: #FFFFFF;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: #FF2200;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 12px;
+  fill: rgb(255, 255, 255);
+}
+
+path.link {
+  fill: none;
+  stroke: #FF2200;
+  stroke-width: 1px;
+}

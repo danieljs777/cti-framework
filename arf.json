@@ -1,0 +1,2654 @@
+{
+  "name": "CTI",
+  "type": "folder",
+  "children": [
+  {
+    "name": "Framework Tools",
+    "type": "folder",
+    "children": [
+    {
+      "name": "IBM X-Force Exchange",
+      "type": "url",
+      "url": "https://exchange.xforce.ibmcloud.com"
+    }
+    ,
+    {
+      "name": "IntelMQ",
+      "type": "url",
+      "url": "https://github.com/certtools/intelmq"
+    }
+    ,
+    {
+      "name": "Pulsedive",
+      "type": "url",
+      "url": "https://pulsedive.com"
+    }
+    ,
+    {
+      "name": "Fireeye iSIGHT Threat Intelligence",
+      "type": "url",
+      "url": "https://www.fireeye.com"
+    }    
+    ,
+    {
+      "name": "RSA NetWitness Platform",
+      "type": "url",
+      "url": "https://community.rsa.com/t5/rsa-netwitness-platform/ct-p/netwitness"
+    }    
+    ,
+    {
+      "name": "AlienVault USM Anywhere",
+      "type": "url",
+      "url": "https://cybersecurity.att.com/products/usm-anywhere/sensor-downloads"
+    }    
+    ,
+    {
+      "name": "LogRythm TLM Platform",
+      "type": "url",
+      "url": "https://logrhythm.com/rapidly-detect-and-respond-to-cyber-threats-with-threat-lifecycle-management-demo/"
+    }    
+    ,
+    {
+      "name": "Splunk Enterprise Security",
+      "type": "url",
+      "url": "https://www.splunk.com"
+    }    
+    ,
+    {
+      "name": "Argos Threat Intelligence Platform",
+      "type": "url",
+      "url": "https://cyberint.com"
+    }    
+    ,
+    {
+      "name": "RiskIQ",
+      "type": "url",
+      "url": "https://www.riskiq.com"
+    }    
+    ,
+    {
+      "name": "Malstrom",
+      "type": "url",
+      "url": "https://github.com/opensourcesec/malstrom"
+    }    
+    ,
+    {
+      "name": "Threat_note",
+      "type": "url",
+      "url": "https://github.com/DefensePointSecurity/threat_note"
+    }    
+    ,
+    {
+      "name": "AutoFocus",
+      "type": "url",
+      "url": "https://www.paloaltonetworks.fr/cortex/autofocus"
+    }    
+    ,
+    {
+      "name": "AbuseHelper",
+      "type": "url",
+      "url": "https://github.com/abusesa/abusehelper"
+    }    
+    ,
+    {
+      "name": "CIF (Collective Intelligence Framework)",
+      "type": "url",
+      "url": "https://csirtgadgets.com/collective-intelligence-framework/"
+    }    
+    ]
+  }
+  ,
+  {
+    "name": "Planning",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Requirements",
+      "type": "folder"
+    }
+    ,
+    {
+      "name": "People, Processes and Technology",
+      "type": "folder"
+    }
+    ,
+    {
+      "name": "Collection Plan",
+      "type": "folder"
+    }
+    ,
+    {
+      "name": "Threat Intelligence Program",
+      "type": "folder"
+    }        
+    ,
+    {
+      "name": "Budget Planning",
+      "type": "folder"
+    }        
+    ,
+    {
+      "name": "Communication Planning",
+      "type": "folder"
+    }        
+    ,
+    {
+      "name": "Aggregate Threat Intelligence",
+      "type": "folder"
+    }        
+    ,
+    {
+      "name": "Threat Intel Platform selection",
+      "type": "folder"
+    }        
+    ,
+    {
+      "name": "Intel Consuming",
+      "type": "folder"
+    }
+    ]
+  }      
+  ,
+  {
+    "name": "Data Collection",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Active",
+      "type": "folder",
+      "children": [
+        {
+          "name": "External Networks",
+          "type": "folder"
+        }
+        ,
+        {
+          "name": "Adversary Systems",
+          "type": "folder"
+        }
+      ]
+    }
+    ,
+    {
+      "name": "Hybrid",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Intelligence Sources",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Strategic Data Collection",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "OSINT Framework",
+                  "type": "url",
+                  "url" : "https://osintframework.com"
+                }
+                ,
+                {
+                  "name": "OSINT - OpenSource Intel",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Public Internet Search",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "ThreatCrowd",
+                          "type": "url",
+                          "url" : "https://www.threatcrowd.org"
+                        }
+                        ,
+                        {
+                          "name": "DeeperWeb",
+                          "type": "url",
+                          "url" : "https://deeperweb.com"
+                        }
+                        ,
+                        {
+                          "name": "Exonerator",
+                          "type": "url",
+                          "url" : "https://exonerator.torproject.org"
+                        }
+                        ,
+                        {
+                          "name": "FreeNetProject",
+                          "type": "url",
+                          "url" : "https://freenetproject.org"
+                        }
+                        ,
+                        {
+                          "name": "GNU",
+                          "type": "url",
+                          "url" : "https://gnunet,org"
+                        }
+                        ,
+                        {
+                          "name": "OneSwarm",
+                          "type": "url",
+                          "url" : "https://www,oneswarm.org"
+                        }
+                        ,
+                        {
+                          "name": "RetroShare",
+                          "type": "url",
+                          "url" : "https://retroshare.net"
+                        }
+                        ,
+                        {
+                          "name": "SubGraph",
+                          "type": "url",
+                          "url" : "https://subgraph.com"
+                        }
+                        ,
+
+                        {
+                          "name": "Exploitalert",
+                          "type": "url",
+                          "url" : "https://www.exploitalert.com"
+                        }
+                        ,
+                        {
+                          "name": "Netlab OpenData Project ",
+                          "type": "url",
+                          "url" : "https://data.netlab.360.com"
+                        }
+                        ,
+                        {
+                          "name": "NoThink",
+                          "type": "url",
+                          "url" : "https://www.nothink.org"
+                        }
+                        ,
+                        {
+                          "name": "OpenPhish",
+                          "type": "url",
+                          "url" : "https://openphish.com"
+                        }
+                        ,
+                        {
+                          "name": "PhishTank",
+                          "type": "url",
+                          "url" : "https://phishtank.com"
+                        }
+                        ,
+                        {
+                          "name": "Cisco Talos Phish",
+                          "type": "url",
+                          "url" : "https://talosintelligence.com"
+                        }
+                        ,
+                        {
+                          "name": "VirusShare",
+                          "type": "url",
+                          "url" : "https://virusshare.com"
+                        }
+                        ,
+                        {
+                          "name": "CRITS",
+                          "type": "url",
+                          "url" : "https://crits.github.io"
+                        }
+                      ]
+                    }
+                    ,
+                    {
+                      "name": "Deep / Darkweb",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "surfwax",
+                          "type": "url",
+                          "url" : "http://lookahead.surfwax.com"
+                        }
+                        ,
+                        {
+                          "name": "Deeperweb",
+                          "type": "url"
+                        }
+                      ]
+                    }
+                    ,
+                    {
+                      "name": "Listings Data Collection Tools",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Apility.IO",
+                          "type": "url",
+                          "url" : "https://apility.io"
+                        }
+                        ,
+                        {
+                          "name": "AutoShun",
+                          "type": "url",
+                          "url" : "https://www.autoshun.org"
+                        }
+                        ,
+                        {
+                          "name": "Cisco Umbrella",
+                          "type": "url",
+                          "url" : "https://umbrella.cisco.com"
+                        }
+                        ,
+                        {
+                          "name": "iBlockList",
+                          "type": "url",
+                          "url" : "https://www.iblocklist.com"
+                        }
+                        ,
+                        {
+                          "name": "Alexa Top 1 MI sites",
+                          "type": "url",
+                          "url" : "http://s3.amazonaws.com/alexa-static/top-1m.csv.zip"
+                        }
+                        ,
+                        {
+                          "name": "CINS Army",
+                          "type": "url",
+                          "url" : "https://cinsarmy.com"
+                        }
+                        ,
+                        {
+                          "name": "Firehol IP Lists",
+                          "type": "url",
+                          "url" : "https://iplists.firehol.org"
+                        }
+                        ,
+                        {
+                          "name": "CINS Army",
+                          "type": "url",
+                          "url" : "https://cinsarmy.com"
+                        }
+                        ,
+                        {
+                          "name": "Majestic",
+                          "type": "url",
+                          "url" : "https://majestic.com"
+                        }
+                        ,
+                        {
+                          "name": "Rutgers Reports",
+                          "type": "url",
+                          "url" : "https://report.cs.rutgers.edu"
+                        }
+                        ,
+                        {
+                          "name": "Statvoo",
+                          "type": "url",
+                          "url" : "https://statvoo.com"
+                        }
+                        ,
+                        {
+                          "name": "Megatron-Java",
+                          "type": "url",
+                          "url" : "https://github.com/cert-se/megatron-java"
+                        }
+                        ,
+                        {
+                          "name": "BotScout",
+                          "type": "url",
+                          "url" : "https://botscout.com"
+                        }
+                        ,
+                        {
+                          "name": "awesome-threat-intelligence",
+                          "type": "url",
+                          "url" : "https://github.com/hslatman/awesome-threat-intelligence"
+                        }
+                      ]
+                    }
+                    ,
+                    {
+                      "name": "HTTP Headers",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Insert more...",
+                          "type": "folder"
+                        }
+                      ]
+                    }                                        
+                    ,
+                    {
+                      "name": "HTML Inspection",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Insert more...",
+                          "type": "folder"
+                        }
+                      ]
+                    }                                        
+                    ,
+                    {
+                      "name": "Services enumeration",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Insert more...",
+                          "type": "folder"
+                        }
+                      ]
+                    }                                        
+                    ,
+                    {
+                      "name": "Monitor website traffic",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Web-stat",
+                          "type": "url",
+                          "url" : "https://www.web-stat.com"
+                        }
+                        ,
+                        {
+                          "name": "Alexa",
+                          "type": "url",
+                          "url" : "http://s3.amazonaws.com/alexa-static/top-1m.csv.zip"
+                        }
+                        ,
+                        {
+                          "name": "Monitis",
+                          "type": "url",
+                          "url" : "https://www.monitis.com"
+                        }
+                        ,
+                        {
+                          "name": "Clicky",
+                          "type": "url",
+                          "url" : "https://clicky.com"
+                        }
+                        ,
+                        {
+                          "name": "Opentracker.net",
+                          "type": "url",
+                          "url" : "https://opentracker.net"
+                        }
+                        ,
+                        {
+                          "name": "Google Analytics",
+                          "type": "url",
+                          "url" : "https://analytics.google.com"
+                        }
+                        ,
+                        {
+                          "name": "Woopra",
+                          "type": "url",
+                          "url" : "https://www.woopra.com"
+                        }
+                        ,
+                        {
+                          "name": "W3counter",
+                          "type": "url",
+                          "url" : "https://www.w3counter.com"
+                        }
+                        ,
+                        {
+                          "name": "Stat Counter",
+                          "type": "url",
+                          "url" : "https://statcounter.com"
+                        }
+                        ,
+                        {
+                          "name": "Shiny Stat",
+                          "type": "url",
+                          "url" : "https://www.shinystat.com"
+                        }
+
+                      ]
+                    }     
+                    ,
+                    {
+                      "name": "Emails",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Recipient IP",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Geolocation",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Timestamps",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Links visited",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Browser / OS fingerprinting",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Links visited",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Time spent on emails",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Traffic",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Headers",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "eMailTrackerPro",
+                          "type": "url",
+                          "url" : "http://www.emailtrackerpro.com"
+                        }
+                      ]
+                    }                                                       
+                    ,
+                    {
+                      "name": "Website footprinting",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Public Documents Metadata",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "Metagoofil",
+                              "type": "url",
+                              "url" : "https://github.com/laramies/metagoofil"
+                            }
+                            ,
+                            {
+                              "name": "ExtractMetadata.com",
+                              "type": "url",
+                              "url" : "https://www.extractmetadata.com"
+                            }
+                            ,
+                            {
+                              "name": "FOCA (ElevenPaths)",
+                              "type": "url",
+                              "url" : "https://github.com/ElevenPaths/FOCA"
+                            }
+                            ,
+                            {
+                              "name": "Meta Tag Analyzer",
+                              "type": "url",
+                              "url" : "https://chrome.google.com/webstore/detail/meta-tag-analyzer/fjaojohahonilkanpijpfhkekbegbkfa?hl=en"
+                            }
+                            ,
+                            {
+                              "name": "BuzzStream",
+                              "type": "url",
+                              "url" : "https://www.buzzstream.com"
+                            }
+                            ,
+                            {
+                              "name": "Analyse Metadata",
+                              "type": "url",
+                              "url" : "https://exifinfo.org"
+                            }
+                            ,
+                            {
+                              "name": "ExifTool",
+                              "type": "url",
+                              "url" : "https://exiftool.org"
+                            }
+                            ,
+                            {
+                              "name": "Meta SEO Inspector",
+                              "type": "url",
+                              "url" : "https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en"
+                            }
+                            ,
+                            {
+                              "name": "Meta Tag Extractor",
+                              "type": "url",
+                              "url" : "https://www.iwebtool.com/meta-extractor"
+                            }                      
+
+                          ]
+                        }
+                      ]
+                    } 
+                    ,
+                    {
+                      "name": "DNS Interrogation",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "FastFlux DNS",
+                          "type": "url",
+                          "url" : "#"
+                        }
+                      ]
+                    }
+                    ,
+                    {
+                      "name": "Automate OSINT with tools",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Pentest Tools",
+                          "type": "url",
+                          "url" : "https://pentest-tools.com"
+                        }
+                        ,
+                        {
+                          "name": "Smart Whois",
+                          "type": "url",
+                          "url" : "https://www.tamos.com/products/smartwhois/"
+                        }
+                        ,
+                        {
+                          "name": "Ostrica",
+                          "type": "url",
+                          "url" : "https://github.com/Ptr32Void/OSTrICa"
+                        }
+                        ,
+                        {
+                          "name": "OSRFramework",
+                          "type": "url",
+                          "url" : "https://github.com/i3visio/osrframework"
+                        }
+                        ,
+                        {
+                          "name": "Gosint",
+                          "type": "url",
+                          "url" : "https://github.com/ciscocsirt/GOSINT"
+                        }
+                        ,
+                        {
+                          "name": "CIF",
+                          "type": "url",
+                          "url" : "https://csirtgadgets.com/collective-intelligence-framework/"
+                        }
+                        ,
+                        {
+                          "name": "ActorTrackr",
+                          "type": "url",
+                          "url" : "https://github.com/jalewis/actortrackr"
+                        }
+                        ,
+                        {
+                          "name": "Fidelis Barncat",
+                          "type": "url",
+                          "url" : "https://fidelissecurity.com/newsroom/barncat/"
+                        }
+                        ,
+                        {
+                          "name": "SpiderFoot",
+                          "type": "url",
+                          "url" : "https://www.spiderfoot.net"
+                        }
+                        ,
+                        {
+                          "name": "Open Threat Partner eXchange",
+                          "type": "url",
+                          "url" : "https://github.com/Lookingglass/opentpx"
+                        }
+                        ,
+                        {
+                          "name": "IntelMQ",
+                          "type": "url",
+                          "url" : "https://github.com/certtools/intelmq"
+                        }
+                        ,
+                        {
+                          "name": "CrowdFMS",
+                          "type": "url",
+                          "url" : "https://github.com/CrowdStrike/CrowdFMS"
+                        }
+                        ,
+                        {
+                          "name": "Buscador",
+                          "type": "url",
+                          "url" : "https://inteltechniques.com/buscador/"
+                        }
+                        ,
+                        {
+                          "name": "GoatRider",
+                          "type": "url",
+                          "url" : "https://github.com/BinaryDefense/goatrider"
+                        }
+                        ,
+                        {
+                          "name": "DataSploit",
+                          "type": "url",
+                          "url" : "https://github.com/DataSploit/datasploit"
+                        }
+                        ,
+                        {
+                          "name": "QRadio",
+                          "type": "url",
+                          "url" : "https://github.com/QTek/QRadio"
+                        }
+                        ,
+                        {
+                          "name": "AbuseHelper",
+                          "type": "url",
+                          "url" : "https://github.com/abusesa/abusehelper"
+                        }
+                        ,
+                        {
+                          "name": "Machinae",
+                          "type": "url",
+                          "url" : "https://github.com/HurricaneLabs/machinae"
+                        }
+                        ,
+                        {
+                          "name": "C1fApp",
+                          "type": "url",
+                          "url" : "http://www.c1fapp.com/"
+                        }
+                        ,
+                        {
+                          "name": "AIEngine",
+                          "type": "url",
+                          "url" : "https://bitbucket.org/camp0/aiengine"
+                        }
+                        ,
+                        {
+                          "name": "AbuseIO",
+                          "type": "url",
+                          "url" : "https://abuse.io"
+                        }
+                        ,
+                        {
+                          "name": "Poortego",
+                          "type": "url",
+                          "url" : "https://github.com/mgeide/poortego"
+                        }
+
+                      ]
+                    }
+                    ,
+                    {
+                      "name": "Whois lookup",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "ARIN (American Registry for Internet Numbers)",
+                          "type": "url",
+                          "url" : "http://www.arin.net"
+                        }
+                        ,
+                        {
+                          "name": "Afrinic (African Network Information Center)",
+                          "type": "url",
+                          "url" : "http://www.afrinic.net"
+                        }
+                        ,
+                        {
+                          "name": "APNIC (Asia Pacific Network Information Center)",
+                          "type": "url",
+                          "url" : "http://www.arin.net"
+                        }
+                        ,
+                        {
+                          "name": "RIPE NCC (Réseaux IP Européens Network Coordination Centre)",
+                          "type": "url",
+                          "url" : "http://www.ripe.net"
+                        }
+                        ,
+                        {
+                          "name": "Lacnic (Latin American and Caribbean Network Information Center)",
+                          "type": "url",
+                          "url" : "http://www.lacnic.net"
+                        }
+                      ]
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "HUMINT - Human Intel",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Foreign Defense Personnel and Advisors",
+                      "type": "url",
+                      "url" : "http://www.arin.net"
+                    }
+                    ,
+                    {
+                      "name": "Accredited diplomats",
+                      "type": "url",
+                      "url" : "http://www.arin.net"
+                    }
+                    ,
+                    {
+                      "name": "NGOs",
+                      "type": "url",
+                      "url" : "http://www.arin.net"
+                    }
+                    ,
+                    {
+                      "name": "Prisoners of War",
+                      "type": "url",
+                      "url" : "http://www.arin.net"
+                    }
+                    ,
+                    {
+                      "name": "Refugees",
+                      "type": "url",
+                      "url" : "http://www.arin.net"
+                    }
+                    ,
+                    {
+                      "name": "Traveller interview or debriefing",
+                      "type": "url",
+                      "url" : "http://www.arin.net"
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "Industry Association and Vertical Communities",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Commercial Sources",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Kaspersky Threat Intelligence",
+                      "type": "url",
+                      "url" : "https://www.kaspersky.com/enterprise-security/threat-intelligence"
+                    }
+                    ,
+                    {
+                      "name": "McAffee Threat Intelligence eXchange",
+                      "type": "url",
+                      "url" : "https://www.mcafee.com/enterprise/en-us/products/threat-intelligence-exchange.html"
+                    }
+                    ,
+                    {
+                      "name": "Avast",
+                      "type": "url",
+                      "url" : "https://blog.avast.com/author/threat-intelligence-team"
+                    }
+                    ,
+                    {
+                      "name": "FortiGuard",
+                      "type": "url",
+                      "url" : "https://secure.fortinet.com/FortiGuard"
+                    }
+                    ,
+                    {
+                      "name": "SecureWorks",
+                      "type": "url",
+                      "url" : "https://www.secureworks.com/services/threat-intelligence"
+                    }
+                    ,
+                    {
+                      "name": "Cisco",
+                      "type": "url",
+                      "url" : "https://www.cisco.com/c/en/us/products/security/talos.html"
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "GEOINT - GeoSpatial Int",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Satellite Imagery",
+                      "type": "url",
+                      "url" : "#"
+                    }
+                    ,
+                    {
+                      "name": "Unmanned Aerial Vehicles (UAV) Imagery",
+                      "type": "url",
+                      "url" : "#"
+                    }
+                    ,
+                    {
+                      "name": "Maps",
+                      "type": "url",
+                      "url" : "#"
+                    }
+                    ,
+                    {
+                      "name": "GPS Waypoints",
+                      "type": "url",
+                      "url" : "#"
+                    }
+                    ,
+                    {
+                      "name": "IMINT (Imagery Intelligence)",
+                      "type": "url",
+                      "url" : "#"
+                    }
+                    ,
+                    {
+                      "name": "NGA",
+                      "type": "url",
+                      "url" : "#"
+                    }
+                    ,
+                    {
+                      "name": "Signals",
+                      "type": "url",
+                      "url" : "#"
+                    }
+                    ,
+                    {
+                      "name": "Measurements and signatures",
+                      "type": "url",
+                      "url" : "#"
+                    }
+                    ,
+                    {
+                      "name": "Human Sources",
+                      "type": "url",
+                      "url" : "#"
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "CCI - Cyber CounterIntelligence",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Defensive CCI",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "Honeypots",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Passive DNS Monitoring",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Online Web Trackers",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Fake profiling on online forums",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "False Reports Published",
+                          "type": "folder"
+                        }
+
+                      ]
+                    }
+                    ,
+                    {
+                      "name": "Offensive CCI",
+                      "type": "folder"
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "CHIS - Covert Human Int Sources",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "IMINT - Imagery Intelligence",
+                  "type": "folder",
+                      "children": [
+                        {
+                          "name": "Visual Photography",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Infrared Sensors",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Synthetic Aperture Radar",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "LASER",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Electro-Optics",
+                          "type": "folder"
+                        }
+                      ]
+                }
+                ,
+                {
+                  "name": "MASINT - Measurement and Signature Intel",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "FININT - Financial Intelligence",
+                  "type": "folder",
+                      "children": [
+                        {
+                          "name": "FIU - Financial Intelligence Unit",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Banks",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "SWIFT",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "IVTS - Informal Value Transfer Systems",
+                          "type": "folder"
+                        }                      
+                      ]
+                }
+                ]
+            },
+            {
+              "name": "Tactical Data Collection",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Incident Reports",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Malware Analysis",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Static",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "File fingerprint",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Local and Online Malware Scanning",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Perform Strings Search",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "McAfee BinText",
+                              "type": "url",
+                              "url" : "https://www.aldeid.com/wiki/BinText"
+                            }
+                          ]
+                        }
+                        ,
+                        {
+                          "name": "Identify Packing / Obfuscation Methods",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "PEid",
+                              "type": "url",
+                              "url" : "https://www.aldeid.com/wiki/PEiD"
+                            }
+                          ]
+                        }
+                        ,
+                        {
+                          "name": "PE information",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "PE Explorer",
+                              "type": "url",
+                              "url" : "http://www.heaventools.com/download.htm"
+                            }
+                          ]
+                        }
+                        ,
+                        {
+                          "name": "Identify File dependencies",
+                          "type": "folder",
+                          "children": [
+                            {
+                              "name": "Dependency Walker",
+                              "type": "url",
+                              "url" : "https://www.dependencywalker.com"
+                            }
+                          ]
+                        }
+                        ,
+                        {
+                          "name": "Malware Disassembly",
+                          "type": "folder"
+                        }
+                      ]
+                    }
+                    ,
+                    {
+                      "name": "Dynamic",
+                      "type": "folder",
+                          "children": [
+                            {
+                              "name": "Sandboxing",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "System Baselining",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Host Integrity Monitor",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Port Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Process Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Registry Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Windows Services Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Startup Programs Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Event Logs Monitoring / Analysis",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Installation Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Files and Folder Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Device Drivers Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Network Traffic Monitoring / Analysis",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "DNS Monitoring / Resolution",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "API Calls Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "SSL/TLS Certificate Monitoring",
+                              "type": "folder"
+                            }
+                            ,
+                            {
+                              "name": "Tools",
+                              "type": "folder",
+                              "children" : [
+                              {
+                                "name": "Virtualization",
+                                "type": "folder",
+                                "children": [
+                                  {
+                                    "name": "Hyper-V",
+                                    "type": "url",
+                                    "url" : "https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/"
+                                  }
+                                  ,
+                                  {
+                                    "name": "Parallels desktop",
+                                    "type": "url",
+                                    "url" : "https://www.parallels.com/br/pd/general/?gclid=CjwKCAjw07qDBhBxEiwA6pPbHnZKAYwwtankn-t4SOHvlE-Wqcm54lHzJrZUT-tjD1EupALaeUMTHBoCrNkQAvD_BwE"
+                                  }
+                                  ,
+                                  {
+                                    "name": "VMWare vSphere Hypervisor",
+                                    "type": "url",
+                                    "url" : "https://www.vmware.com/products/vsphere-hypervisor.html"
+                                  }
+                                ]
+                              }
+                              ,
+                              {
+                                "name": "Screen Capture & Recording",
+                                "type": "folder",
+                                "children": [
+                                  {
+                                    "name": "Snagit",
+                                    "type": "url",
+                                    "url" : "https://www.techsmith.com/screen-capture.html"
+                                  }
+                                  ,
+                                  {
+                                    "name": "Jing",
+                                    "type": "url",
+                                    "url" : "https://www.techsmith.com/jing-tool.html"
+                                  }
+                                  ,
+                                  {
+                                    "name": "Camtasia",
+                                    "type": "url",
+                                    "url" : "https://www.techsmith.com/video-editor.html"
+                                  }
+                                  ,
+                                  {
+                                    "name": "Ezvid",
+                                    "type": "url",
+                                    "url" : "https://www.ezvid.com"
+                                  }
+                                ]
+                              }
+                              ,
+
+                              {
+                                "name": "Network & Internet Simulation Tools",
+                                "type": "folder",
+                                "children": [
+                                  {
+                                    "name": "NetSim",
+                                    "type": "url",
+                                    "url" : "https://www.tetcos.com"
+                                  }
+                                  ,
+                                  {
+                                    "name": "ns-3",
+                                    "type": "url",
+                                    "url" : "https://www.nsnam.org"
+                                  }
+                                  ,
+                                  {
+                                    "name": "Riverbed Modeler",
+                                    "type": "url",
+                                    "url" : "https://www.riverbed.com/products/npm/riverbed-modeler.html#:~:text=Riverbed%20Modeler%20provides%20a%20comprehensive,communication%20networks%20and%20distributed%20systems.&text=Riverbed%20Modeler%20enables%20you%20to,demonstrating%20technology%20designs%20before%20production."
+                                  }
+                                  ,
+                                  {
+                                    "name": "Qualnet",
+                                    "type": "url",
+                                    "url" : "https://www.scalable-networks.com/products/qualnet-network-simulation-software-tool/"
+                                  }
+                                ]
+                              }
+                              ,
+                              {
+                                "name": "OS Backup & Imaging",
+                                "type": "folder",
+                                "children": [
+                                  {
+                                    "name": "Genie Backup Manager Pro",
+                                    "type": "url",
+                                    "url" : "https://www.zoolz.com/genie9/business-users/genie-backup-manager-professional/"
+                                  }
+                                  ,
+                                  {
+                                    "name": "Macrium Reflect Server",
+                                    "type": "url",
+                                    "url" : "https://www.macrium.com/products/business/standalone/server"
+                                  }
+                                  ,
+                                  {
+                                    "name": "R-Drive Image",
+                                    "type": "url",
+                                    "url" : "https://www.drive-image.com"
+                                  }
+                                  ,
+                                  {
+                                    "name": "O&O DiskImage",
+                                    "type": "url",
+                                    "url" : "https://www.oo-software.com/en/diskimage-backup-your-data"
+                                  }
+                                ]
+                              }                                
+
+                              ]
+                            }
+                          ]
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "Threat Actor Groups & Campaign Reports",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Ransom Mafia - The world first ransomware cartel",
+                      "type": "url",
+                      "url" : "https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FIRST-RANSOMWARE-CARTEL.pdf"
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "IoCs - Indicators of Compromise",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Commercial & Industry Sources",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "BlueLiv",
+                          "type": "url",
+                          "url" : "https://www.blueliv.com"
+                        }
+                        ,
+                        {
+                          "name": "IT-ISAC",
+                          "type": "url",
+                          "url" : "https://www.it-isac.org"
+                        }
+
+                      ]
+                    }
+                    ,
+                    {
+                      "name": "Free IoC specific sources",
+                      "type": "folder",
+                      "children": [
+                        {
+                          "name": "AlienVault OTX",
+                          "type": "url",
+                          "url" : "https://otx.alienvault.com"
+                        }
+                        ,
+                        {
+                          "name": "MISP",
+                          "type": "url",
+                          "url" : "https://www.misp-project.org"
+                        }
+                        ,
+                        {
+                          "name": "Threat_note",
+                          "type": "url",
+                          "url" : "https://github.com/DefensePointSecurity/threat_note"
+                        }
+                        ,
+                        {
+                          "name": "Cacador",
+                          "type": "url",
+                          "url" : "https://github.com/sroberts/cacador"
+                        }
+                        ,
+                        {
+                          "name": "IOC Bucket",
+                          "type": "url",
+                          "url" : "https://www.iocbucket.com"
+                        }
+                        ,
+                        {
+                          "name": "BlueLiv",
+                          "type": "url",
+                          "url" : "https://www.blueliv.com"
+                        }
+                        ,
+                        {
+                          "name": "ThreatConnect",
+                          "type": "url",
+                          "url" : "https://threatconnect.com"
+                        }
+                        ,
+                        {
+                          "name": "GreyNoise",
+                          "type": "url",
+                          "url" : "https://greynoise.io"
+                        }
+                        ,
+                        {
+                          "name": "BOTVRIJ.EU",
+                          "type": "url",
+                          "url" : "https://botvrij.eu"
+                        }
+                        ,
+                        {
+                          "name": "ThreatMiner",
+                          "type": "url",
+                          "url" : "https://www.threatminer.org"
+                        }
+                        ,
+                        {
+                          "name": "Threat-Intelligence-Hunter",
+                          "type": "url",
+                          "url" : "https://github.com/abhinavbom/Threat-Intelligence-Hunter"
+                        }
+                        ,
+                        {
+                          "name": "Pulsedive",
+                          "type": "url",
+                          "url" : "https://pulsedive.com"
+                        }
+                        ,
+                        {
+                          "name": "github ostip",
+                          "type": "url",
+                          "url" : "https://github.com/kx499/ostip"
+                        }
+                        ,
+                        {
+                          "name": "github rastrea2r",
+                          "type": "url",
+                          "url" : "https://github.com/rastrea2r/rastrea2r"
+                        }
+                        ,
+                        {
+                          "name": "github ThreatTracker",
+                          "type": "url",
+                          "url" : "https://github.com/michael-yip/ThreatTracker"
+                        }
+                      ]
+                    }
+                    ,
+                    {
+                      "name": "Online Security Related Sources",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Social Media",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "News feeds",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "IoC Buckets",
+                      "type": "folder"
+                    }
+
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Operational Data Collection",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "SOCMINT - Social Media Int",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Government and Law Enforcement Sources",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "US Computer Emergency Response Team (US-CERT)",
+                      "type": "url",
+                      "url" : "https://us-cert.cisa.gov"
+                    }
+                    ,
+                    {
+                      "name": "European Union Agency for Network and Information Security (ENISA)",
+                      "type": "url",
+                      "url" : "https://www.enisa.europa.eu"
+                    }
+                    ,
+                    {
+                      "name": "FBI Cyber Crime",
+                      "type": "url",
+                      "url" : "https://www.fbi.gov/investigate/cyber"
+                    }
+                    ,
+                    {
+                      "name": "StopThinkConnect",
+                      "type": "url",
+                      "url" : "https://www.stopthinkconnect.org"
+                    }
+                    ,
+                    {
+                      "name": "CERIAS Blog",
+                      "type": "url",
+                      "url" : "https://www.cerias.purdue.edu/site/blog/"
+                    }
+                    ,
+                    {
+                      "name": "International Police Organization (Interpol)",
+                      "type": "url",
+                      "url" : "https://www.interpol.int/en"
+                    }
+                    ,
+                    {
+                      "name": "Central Intelligence Agency (CIA)",
+                      "type": "url",
+                      "url" : "https://www.cia.gov"
+                    }
+                    ,
+                    {
+                      "name": "National Security Agency (NSA)",
+                      "type": "url",
+                      "url" : "https://www.nsa.gov"
+                    }
+                    ,
+                    {
+                      "name": "Homeland Security (DHS)",
+                      "type": "url",
+                      "url" : "https://www.dhs.gov"
+                    }
+                    ,
+                    {
+                      "name": "Central Bureau of Investigation (CBI)",
+                      "type": "url",
+                      "url" : "https://cbi.gov.in"
+                    }
+                    ,
+                    {
+                      "name": "National Investigation Agency (NIA)",
+                      "type": "url",
+                      "url" : "https://www.nia.gov.in"
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "Chat Rooms",
+                  "type": "folder"
+                }
+              ]
+            },
+            {
+              "name": "Technical Data Collection",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "TECHINT - Technical Intel",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Foreign Equipment",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Foreign weapon Systems",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Satellites",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Technical Research Pages",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Foreign media",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Human Contacts",
+                      "type": "folder"
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "SIGINT - Signals Intel",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "COMINT - Communication Intel",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "ELINT - Eletronic Intel",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "FISINT - Foreign Instrumentation Signals Intelligence",
+                      "type": "folder"
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "MASINT - Measurement and Signature Int",
+                  "type": "folder",
+                  "children" : [
+                        {
+                          "name": "Electro-Optics",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Radar Sensors",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Acoustic Sensors like Sonars",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "LASER",
+                          "type": "folder"
+                        }
+                        ,
+                        {
+                          "name": "Infrared",
+                          "type": "folder"
+                        }                    
+                        ,
+                        {
+                          "name": "Spectroscopic Sensors",
+                          "type": "folder"
+                        }                    
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+        ,
+        {
+          "name": "Intelligence Feeds",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Internal",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Fraud Analysis",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Security Activity Data",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Mailbox Misused Information",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Human Intelligence",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Vulnerability Information",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "IoC Tools",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Splunk",
+                      "type": "url",
+                      "url" : "https://www.splunk.com"
+                    }
+                    ,
+                    {
+                      "name": "Valkyrie",
+                      "type": "url",
+                      "url" : "https://verdict.valkyrie.comodo.com"
+                    }
+                    ,
+                    {
+                      "name": "IOC Finder",
+                      "type": "url",
+                      "url" : "https://pypi.org/project/ioc-finder/"
+                    }
+                    ,
+                    {
+                      "name": "Redline",
+                      "type": "url",
+                      "url" : "https://www.fireeye.com/services/freeware/redline.html"
+                    }
+                    ,
+                    {
+                      "name": "OpenIOC framework",
+                      "type": "url",
+                      "url" : "https://fireeye.market/apps/211404"
+                    }
+                    ,
+                    {
+                      "name": "IoC Editor",
+                      "type": "url",
+                      "url" : "https://www.fireeye.com/services/freeware/ioc-editor.html"
+                    }
+                    ,
+                    {
+                      "name": "IoC Bucket",
+                      "type": "url",
+                      "url" : "https://www.iocbucket.com"
+                    }
+                    ,
+                    {
+                      "name": "ioc_writer",
+                      "type": "url",
+                      "url" : "https://github.com/mandiant/ioc_writer"
+                    }
+                    ,
+                    {
+                      "name": "PyIOCe",
+                      "type": "url",
+                      "url" : "https://github.com/YahooArchive/PyIOCe"
+                    }
+
+                  ]
+                }
+              ]
+            }
+            ,
+            {
+              "name": "External",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Journals, groups, blogs and forums",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Law Enforcement Needs",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Business Association",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Security Researchers",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Underground forums",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Hash Records",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "GeoIP Statistics",
+                  "type": "folder"
+                }
+              ]
+            }
+            ,
+            {
+              "name": "Proactive Surveillance",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Honeynets",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Malware Forensics",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Brand Monitoring",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "P2P Monitoring",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "DNS Monitoring",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Watchlist Monitoring",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Infra and Apps Logs",
+                  "type": "folder"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "name": "Passive",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Technical Data Collection",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Internal Collection",
+              "type": "folder",
+              "children": [
+                    {
+                      "name": "Unsual outbound network traffic",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Geographical Anomalies",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Multiple Login Failures",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Increase database read volume",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Signs of DDoS activity",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Large HTML response size",
+                      "type": "folder"
+                    }
+                    ,
+
+                    {
+                      "name": "Unsual DNS request",
+                      "type": "folder"
+                    }
+                    ,
+
+                    {
+                      "name": "Suspicious registry or system file changes",
+                      "type": "folder"
+                    }
+                    ,
+
+                    {
+                      "name": "Unexpected patching of systems",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Unusual activity through privileged user account",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Unused outbound network traffic",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Geographic anomalies",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Multiple Login Failures",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Increase DB read volume",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Sign of DDoS activity",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Unsual DNS request",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Suspicious registry or file system changes",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Unexpected patching of systems",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Unsual activity through privileged account",
+                      "type": "folder"
+                    }
+                    ,
+                    {
+                      "name": "Large HTML Response size",
+                      "type": "folder"
+                    }
+
+                  ]
+            }
+            ,
+            {
+              "name": "Internal Systems",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Insert more...",
+                  "type": "folder"
+                }
+              ]
+            }
+            ,
+            {
+              "name": "System Logs",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Insert more...",
+                  "type": "folder"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+    ]    
+  }         
+  ,
+  {
+    "name": "Data Processing",
+    "type": "folder",
+      "children": [
+        {
+          "name": "Structuring and Normalization",
+          "type": "folder",
+          "children": [
+            {
+              "name": "STIX",
+              "type": "folder"
+            }
+            ,
+            {
+              "name": "CybOX",
+              "type": "folder"
+            }
+            ,
+            {
+              "name": "OpenIOC",
+              "type": "folder"
+            }
+            ,
+            {
+              "name": "TAXII",
+              "type": "folder"
+            }
+          ]
+        }
+        ,
+        {
+          "name": "Data Sampling",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Probability",
+              "type": "url",
+              "url": "https://conjointly.com/kb/probability-sampling/"
+            }
+            ,
+            {
+              "name": "Purpose",
+              "type": "url",
+              "url": "https://www.alchemer.com/resources/blog/purposive-sampling-101/"
+            }
+            ,
+            {
+              "name": "Convenience",
+              "type": "url",
+              "url": "https://en.wikipedia.org/wiki/Convenience_sampling"
+            }
+          ]
+        }
+        ,
+        {
+          "name": "Storing and Viewing",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Tableau",
+              "type": "url",
+              "url": "https://www.tableau.com/trial/tableau-software"
+            }
+            ,
+            {
+              "name": "QlikView",
+              "type": "url",
+              "url": "https://www.qlik.com/"
+            }
+
+          ]
+        }
+      ]
+  }      
+  ,
+  {
+    "name": "Data Analysis",
+    "type": "folder",
+      "children": [
+        {
+          "name": "Statistical Analysis",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Data Preparation",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Insert more...",
+                  "type": "folder"
+                }
+              ]
+            }
+            ,
+            {
+              "name": "Data Classification",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Data Clustering",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Hard Clustering",
+                      "type": "url"
+                    }
+                    ,
+                    {
+                      "name": "Soft Clustering",
+                      "type": "url"
+                    }
+                  ]
+                }
+                ,
+                {
+                  "name": "Statistical Distribution",
+                  "type": "folder",
+                  "children": [
+                    {
+                      "name": "Insert more...",
+                      "type": "folder"
+                    }
+                  ]
+                }
+              ]
+            }
+            ,
+            {
+              "name": "Data Validation",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Confidence Levels",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Standard Levels",
+                  "type": "folder"
+                }
+
+              ]
+            }
+            ,
+            {
+              "name": "Data Correlation",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Pearson's Correlation Coefficient",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Kendall Rank Correlation",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Spearman's Rank Correlation",
+                  "type": "folder"
+                }
+              ]
+
+            }
+            ,
+            {
+              "name": "Data Scoring",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Graphing",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Charting",
+                  "type": "folder"
+                }
+              ]
+            }
+          ]
+        }
+        ,
+        {
+          "name": "Threat Analysis",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Strategic Analysis",
+              "type": "folder"
+            }
+            ,
+            {
+              "name": "Tactical Analysis",
+              "type": "folder"
+            }
+            ,
+            {
+              "name": "Technical Analysis",
+              "type": "folder"
+            }
+            ,
+            {
+              "name": "Operational Analysis",
+              "type": "folder"
+            }
+            ,
+            {
+              "name": "Cyber KillChain",
+              "type": "folder"
+            }
+          ]
+        }
+        ,
+        {
+          "name": "Fine Tuning Threat Analysis",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Cognitive Bias",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Correspondence Bias",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Confirmation Bias",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Self Serving Bias",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Belief Bias",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Framing Bias",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Hindsight Bias",
+                  "type": "folder"
+                }
+              ]
+            }
+            ,
+            {
+              "name": "De-Biasing Strategies",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Decision Theory",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Game Theory",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Behavioral Economics",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Cognitive Psychology",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Machine Learning",
+                  "type": "folder"
+                }
+                ,
+                {
+                  "name": "Human Reliability Engineering",
+                  "type": "folder"
+                }
+              ]
+            }
+
+          ]
+        }
+        ,
+        {
+          "name": "Threat Intelligence Evaluation",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Threat Intelligence Platform",
+              "type": "url",
+              "url": "https://www.recordedfuture.com/platform/"
+            }
+            ,
+            {
+              "name": "FireEye iSIGHT Intelligence",
+              "type": "url",
+              "url": "https://www.fireeye.com/blog/products-and-services/2016/05/introducing_fireeye.html"
+            }
+            ,
+            {
+              "name": "LogRhytm Threat Lifecycle Management",
+              "type": "url",
+              "url": "https://logrhythm.com/rapidly-detect-and-respond-to-cyber-threats-with-threat-lifecycle-management-demo/"
+            }
+            ,
+            {
+              "name": "McAfee Global Threat Intelligence",
+              "type": "url",
+              "url": "https://www.mcafee.com/enterprise/en-us/threat-center/global-threat-intelligence-technology.html"
+            }
+            ,
+            {
+              "name": "Anomali ThreatStream",
+              "type": "url",
+              "url": "https://www.anomali.com/products/threatstream"
+            }
+            ,
+            {
+              "name": "RSA Netwitness Platform",
+              "type": "url",
+              "url": "https://www.rsa.com/en-us/products/threat-detection-response"
+            }
+            ,
+            {
+              "name": "Critical Stack Intel",
+              "type": "url",
+              "url": "https://www.apriorit.com/dev-blog/532-analyzing-network-bro-intel-critical-stack"
+            }
+            ,
+            {
+              "name": "Kibana",
+              "type": "url",
+              "url": "https://www.elastic.co/kibana"
+            }
+            ,
+            {
+              "name": "Scumblr",
+              "type": "url",
+              "url": "https://github.com/Netflix-Skunkworks/Scumblr"
+            }
+            ,
+            {
+              "name": "Stoq",
+              "type": "url",
+              "url": "https://stoq.punchcyber.com"
+            }
+            ,
+            {
+              "name": "MANTIS",
+              "type": "url",
+              "url": "https://django-mantis.readthedocs.io"
+            }
+            ,
+            {
+              "name": "MineMeld",
+              "type": "url",
+              "url": "https://www.paloaltonetworks.com/products/secure-the-network/subscriptions/minemeld"
+            }
+            ,
+            {
+              "name": "Yeti",
+              "type": "url",
+              "url": "https://yeti-platform.github.io"
+            }
+            ,
+            {
+              "name": "Harbinger Threat Intelligence",
+              "type": "url",
+              "url": "https://github.com/exp0se/harbinger"
+            }
+            ,
+            {
+              "name": "ManaTI (github.com)",
+              "type": "url",
+              "url": "https://github.com/stratosphereips/Manati"
+            }
+          ]
+        }
+      ]
+  }     
+  ,
+  {
+    "name": "Intelligence Reports",
+    "type": "folder",
+    "children": [
+      {
+        "name": "MagicTree",
+        "type": "url",
+        "url": "https://www.gremwell.com/magictreedoc/"
+      }
+      ,
+      {
+        "name": "KeepNote",
+        "type": "url",
+        "url": "http://keepnote.org"
+      }
+      ,
+      {
+        "name": "KeepNote",
+        "type": "url",
+        "url": "http://keepnote.org"
+      }
+
+    ]
+  }
+  ,
+  {
+    "name": "Sharing & Dissemination",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Formats and Standards",
+        "type": "folder",
+        "children": [
+          {
+            "name": "TLP",
+            "type": "url",
+            "url" : "https://www.cisa.gov/tlp"
+          }
+          ,
+          {
+            "name": "MRTI",
+            "type": "url",
+            "url" : "https://www.blueliv.com/wp-content/uploads/2018/04/Blueliv_MRTI-Feed.pdf"
+          }
+          ,
+          {
+            "name": "STIX",
+            "type": "url",
+            "url" : "https://oasis-open.github.io/cti-documentation/stix/intro.html"
+          }
+          ,
+          {
+            "name": "CybOX",
+            "type": "url",
+            "url" : "https://cyboxproject.github.io"
+          }
+          ,
+          {
+            "name": "OpenIOC",
+            "type": "url",
+            "url" : "https://www.fireeye.com/blog/threat-research/2013/10/openioc-basics.html"
+          }
+          ,
+          {
+            "name": "TAXII",
+            "type": "url",
+            "url" : "https://oasis-open.github.io/cti-documentation/taxii/intro.html"
+          }
+          ,
+          {
+            "name": "MAEC",
+            "type": "url",
+            "url" : "https://maecproject.github.io"
+          }
+          ,
+          {
+            "name": "CAPEC",
+            "type": "url",
+            "url" : "https://github.com/mitre/cti"
+          }
+        ]
+      }
+      ,
+      {
+        "name": "Sharing Platforms",
+        "type": "folder",
+        "children": [
+          {
+            "name": "BlueLiv",
+            "type": "url",
+            "url" : "https://www.blueliv.com"
+          }
+          ,
+          {
+            "name": "Anomali STAXX",
+            "type": "url",
+            "url" : "https://www.anomali.com/resources/staxx"
+          }
+          ,
+          {
+            "name": "MISP",
+            "type": "url",
+            "url" : "https://www.misp-project.org"
+          }
+          ,
+          {
+            "name": "CTIX",
+            "type": "url",
+            "url" : "https://cyware.com/ctix-stix-taxii-cyber-threat-intelligence-exchange"
+          }
+          ,
+          {
+            "name": "Soltra Edge",
+            "type": "url",
+            "url" : "https://www.eclecticiq.com/"
+          }
+          ,
+          {
+            "name": "Fidelis Barncat",
+            "type": "url",
+            "url" : "https://fidelissecurity.com/newsroom/barncat/"
+          }
+          ,
+          {
+            "name": "AlienVault OTX",
+            "type": "url",
+            "url" : "https://otx.alienvault.com"
+          }
+          ,                        
+          {
+            "name": "IBM X-Force Exchange",
+            "type": "url",
+            "url": "https://exchange.xforce.ibmcloud.com"
+          }
+          ,                        
+          {
+            "name": "McAffee Threat Intelligence eXchange",
+            "type": "url",
+            "url" : "https://www.mcafee.com/enterprise/en-us/products/threat-intelligence-exchange.html"
+          }
+          ,
+          {
+            "name": "Automated Indicator Sharing",
+            "type": "url",
+            "url" : "https://www.mcafee.com/enterprise/en-us/products/threat-intelligence-exchange.html"
+          }
+          ,
+          {
+            "name": "AbuseHelper",
+            "type": "url",
+            "url" : "https://www.mcafee.com/enterprise/en-us/products/threat-intelligence-exchange.html"
+          }
+          ,
+          {
+            "name": "McAffee Threat Intelligence eXchange",
+            "type": "url",
+            "url" : "https://www.mcafee.com/enterprise/en-us/products/threat-intelligence-exchange.html"
+          }
+          ,
+          {
+            "name": "AbuseIO",
+            "type": "url",
+            "url" : "https://abuse.io"
+          }
+          ,
+          {
+            "name": "Yara Share",
+            "type": "url",
+            "url" : "https://yara.adlice.com/"
+          }
+          ,
+          {
+            "name": "Yeti",
+            "type": "url",
+            "url": "https://yeti-platform.github.io"
+          }
+          ,
+          {
+            "name": "Open Threat Partner eXchange",
+            "type": "url",
+            "url" : "https://github.com/Lookingglass/opentpx"
+          }            
+          ,
+          {
+            "name": "CRITS",
+            "type": "url",
+            "url" : "https://crits.github.io"
+          }                        
+          ,
+          {
+            "name": "ThreatExchange",
+            "type": "url",
+            "url" : "https://developers.facebook.com/programs/threatexchange/"
+          }                        
+        ]
+      }
+      ,
+      {
+        "name": "Acts and Regulations",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Cybersecurity Information Sharing Act",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Cybersecurity_Information_Sharing_Act"
+          }
+        ]
+      }
+      ,
+      {
+        "name": "Intelligence Integration",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Insert more...",
+            "type": "folder"
+          }
+        ]
+      }
+    ]
+  }  
+  ]
+}
